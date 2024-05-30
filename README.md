@@ -1,4 +1,4 @@
-# Finlay Watling
+# Fin Watling
 I'm a full-stack software engineer and computer science graduate living in Brighton, England.
 
 ## My Code Stats
