@@ -1,5 +1,5 @@
 # Fin Watling
-I'm a full-stack software engineer and computer science graduate living in Brighton, England.
+I'm a back end software engineer and computer science graduate living in Brighton, England.
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/finlay-watling-1266a9215) 
